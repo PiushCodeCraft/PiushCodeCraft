@@ -13,10 +13,10 @@ I enjoy turning ideas into functional products — from interactive web applicat
     <img src="https://img.shields.io/badge/GitHub-PiushCodeCraft-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Piush%20Saha-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="[https://img.shields.io/badge/LinkedIn-Piush%20Saha-0A66C2?style=for-the-badge&logo=linkedin](https://www.linkedin.com/in/piush-saha-28365a243/)" />
   </a>
   <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="[https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white](https://piushcodecraft.github.io/Portfolio/)" />
   </a>
 </p>
 
@@ -188,15 +188,20 @@ I like working on projects where **frontend, backend, databases, APIs, and intel
 
 ---
 
-# 📊 GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PiushCodeCraft&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiushCodeCraft&layout=compact&theme=github_dark&hide_border=true" height="170" />
+  <a href="https://github.com/PiushCodeCraft">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=PiushCodeCraft&theme=github-compact&hide_border=true&area=true"
+      width="95%"
+      alt="PiushCodeCraft GitHub Activity Graph"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=PiushCodeCraft&theme=github-dark-blue&hide_border=true" />
+  <b>Building consistently. Learning continuously. 🚀</b>
 </p>
 
 ---
