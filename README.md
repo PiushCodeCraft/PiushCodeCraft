@@ -4,7 +4,7 @@
 
 > I build modern web applications, AI-powered solutions, and practical software projects that solve real-world problems.
 
-I'm currently pursuing my **MCA in Bangalore** and exploring the intersection of **Full-Stack Development, Artificial Intelligence, Machine Learning, and Cloud Technologies**.
+I'm currently pursuing my **MCA in Bangalore** and exploring the intersection of **Full-Stack Development, Artificial Intelligence and Machine Learning**.
 
 I enjoy turning ideas into functional products — from interactive web applications to ML-powered prediction systems.
 
@@ -29,8 +29,7 @@ I enjoy turning ideas into functional products — from interactive web applicat
 ```text
 💻 Full-Stack Development
 🤖 Machine Learning & AI
-🎨 Frontend & UI/UX
-☁️ Cloud & Backend Development
+🎨 Frontend & Backend Development
 🧠 Problem Solving
 ```
 
